@@ -26,7 +26,7 @@ You can complete the assignments **either locally** on your own computer or **in
 | **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 21.06.2026 |
 | **08_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 28.06.2026 |
 | **09_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 05.07.2026 |
-| **TBD: Interpretability & Reproducibility ** | Model interpretation and experiment tracking (Saliency Maps, Grad‑CAM, MLflow) | 🗓 12.07.2026 |
+| **TBD: Interpretability & Reproducibility** | Model interpretation and experiment tracking (Saliency Maps, Grad‑CAM, MLflow) | 🗓 12.07.2026 |
 
 
 All notebooks are due Sunday 23:55 pm before the corresponding tutorial session unless stated otherwise.
