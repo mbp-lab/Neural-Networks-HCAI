@@ -14,7 +14,7 @@ You can complete the assignments **either locally** on your own computer or **in
 | Notebook | Topic / Description | Submission Date |
 |-----------|--------------------|-----------------|
 | **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission |
-| **01_BiologicalNeuron.ipynb** | Biological neuron model and basic activation functions | 🗓 26.04.2026 |
+| **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 |
 | **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 |
 | **Backpropagation Pen‑Paper I & II** | Analytical backpropagation exercises (pen & paper) | 🗓 10.05.2026 |
 | **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 17.05.2026 |
