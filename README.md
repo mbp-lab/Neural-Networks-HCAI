@@ -52,11 +52,12 @@ All notebooks are due Sunday 23:55 pm before the corresponding tutorial sess
 ---
 ## 🧩 Grading and Requirements
 
-- **Weekly assignments:** 10 points per notebook  
-- **Passing threshold:** 50 % overall (average of 5 / 10 points per notebook)  
-- **Assessment:** Points are awarded **only** for exercises whose solutions you can clearly explain during:
-  - Weekly tutorials  
-  - Two mandatory in‑class assessment sessions
+- Weekly assignments
+- Passing: 50% of the available points (per Notebook)
+- Two Tutorial-Solution-Explaining-Tests (50% of points for pass) in lecture:
+  - Mid-Term: 26.05. 
+  - Semester End: 21.07.
+You can already gain points for the assessment by explaining solutions in a tutorial. Up to 25% percent of the total test points. 
 
 ---
 
