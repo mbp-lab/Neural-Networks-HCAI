@@ -11,22 +11,22 @@ You can complete the assignments **either locally** on your own computer or **in
 ## 🗓 Course Schedule
 
 
-| Notebook | Topic / Description | Submission Date |
-|-----------|--------------------|-----------------|
-| **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission |
-| **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 |
-| **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 |
-| **Backpropagation Pen‑Paper I & II** | Analytical backpropagation exercises (pen & paper) | 🗓 10.05.2026 |
-| **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 17.05.2026 |
-| **04_Optimizers_Activations_Regularization.ipynb** | Exploring optimization techniques and regularization | 🗓 24.05.2026 |
-| *(break / no submission)* | — | ❌ No submission |
-| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 31.05.2026 |
-| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 07.06.2026 |
-| **TBD: Generate Text Sequences** | Sequence generation with RNNs/LSTMs | 🗓 14.06.2026 |
-| **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 21.06.2026 |
-| **08_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 28.06.2026 |
-| **09_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 05.07.2026 |
-| **TBD: Interpretability & Reproducibility** | Model interpretation and experiment tracking (Saliency Maps, Grad‑CAM, MLflow) | 🗓 12.07.2026 |
+| File | Topic / Description | Submission Date | Points |
+|-----------|--------------------|-----------------|-----------------|
+| **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission | 0 | 
+| **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 | 100 |
+| **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 | 100 | 
+| **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 10.05.2026 | 115 |
+| **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 17.05.2026 | 132 | 
+| **04_Optimizers_Activations_Regularization.ipynb** | Exploring optimization techniques and regularization | 🗓 24.05.2026 | 152 | 
+| *(break / no submission)* | — | ❌ No submission | - |
+| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 31.05.2026 | 175 |
+| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 07.06.2026 | 201 | 
+| **TBD: Generate Text Sequences** | Sequence generation with RNNs/LSTMs | 🗓 14.06.2026 | 231 |
+| **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 21.06.2026 | 266 | 
+| **08_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 28.06.2026 | 305 |
+| **09_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 05.07.2026 | 352 |
+| **TBD: Interpretability & Reproducibility** | Model interpretation and experiment tracking (Saliency Maps, Grad‑CAM, MLflow) | 🗓 12.07.2026 | 405 |
 
 
 All notebooks are due Sunday 23:55 pm before the corresponding tutorial session unless stated otherwise.
@@ -53,11 +53,11 @@ All notebooks are due Sunday 23:55 pm before the corresponding tutorial sess
 ## 🧩 Grading and Requirements
 
 - Weekly assignments
-- Passing: 50% of the available points (per Notebook)
-- Two Tutorial-Solution-Explaining-Tests (50% of points for pass) in lecture:
+- Passing: 50% of the available points (over all notebooks)
+- Two Tutorial-Solution-Explaining-Tests (50% of points for pass on each) in lecture:
   - Mid-Term: 26.05. 
   - Semester End: 21.07.
-You can already gain points for the assessment by explaining solutions in a tutorial. Up to 25% percent of the total test points. 
+You can already gain points for the assessment by explaining solutions in a tutorial. Up to 25% percent of the total test points if you present in every tutorial. 
 
 ---
 
