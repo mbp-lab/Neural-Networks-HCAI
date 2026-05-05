@@ -54,7 +54,7 @@ All notebooks are due Sunday 23:55 pm before the corresponding tutorial sess
 
 - Weekly assignments
 - Passing: 50% of the available points (over all notebooks)
-- Two Tutorial-Solution-Explaining-Tests (50% of points for pass on each) in lecture:
+- Two Tutorial-Solution-Explaining-Tests (50% of points for pass) in lecture:
   - Mid-Term: 26.05. 
   - Semester End: 21.07.
 You can already gain points for the assessment by explaining solutions in a tutorial. Up to 25% percent of the total test points if you present in every tutorial. 
