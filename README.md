@@ -16,11 +16,11 @@ You can complete the assignments **either locally** on your own computer or **in
 | **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission | 0 | 
 | **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 | 100 |
 | **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 | 100 | 
-| **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 10.05.2026 | 115 |
-| **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 17.05.2026 | 132 | 
-| **04_Optimizers_Activations_Regularization.ipynb** | Exploring optimization techniques and regularization | 🗓 24.05.2026 | 152 | 
+| **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 17.05.2026 | 115 |
+| **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 24.05.2026 | 132 | 
 | *(break / no submission)* | — | ❌ No submission | - |
-| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 31.05.2026 | 175 |
+| **04_Optimizers_Activations_Regularization.ipynb** | Exploring optimization techniques and regularization | 🗓 TBD | 152 | 
+| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 TBD | 175 |
 | **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 07.06.2026 | 201 | 
 | **TBD: Generate Text Sequences** | Sequence generation with RNNs/LSTMs | 🗓 14.06.2026 | 231 |
 | **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 21.06.2026 | 266 | 
