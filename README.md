@@ -19,13 +19,13 @@ You can complete the assignments **either locally** on your own computer or **in
 | **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 17.05.2026 | 115 |
 | **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 24.05.2026 | 132 | 
 | *(break / no submission)* | — | ❌ No submission | - |
-| **04_Optimizers_Activations.ipynb** | Loss landscape visualisation, optimizer trajectories (Beale function), and comparing activation functions on MNIST | 🗓 TBD | 152 |
-| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 TBD | 175 |
-| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 07.06.2026 | 201 | 
-| **TBD: Generate Text Sequences** | Sequence generation with RNNs/LSTMs | 🗓 14.06.2026 | 231 |
-| **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 21.06.2026 | 266 | 
-| **08_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 28.06.2026 | 305 |
-| **09_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 05.07.2026 | 352 |
+| **04_Optimizers_Activations.ipynb** | Loss landscape visualisation, optimizer trajectories (Beale function), and comparing activation functions on MNIST | 🗓 01.06.2026 | 152 |
+| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 15.06.2026 | 175 |
+| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 22.06.2026 | 201 | 
+| **TBD: Generate Text Sequences** | Sequence generation with RNNs/LSTMs | 🗓 29.06.2026 | 231 |
+| **07_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 06.07.2026 | 266 | 
+| **08_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 13.06.2026 | 305 |
+| **09_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 20.07.2026 | 352 |
 | **TBD: Interpretability & Reproducibility** | Model interpretation and experiment tracking (Saliency Maps, Grad‑CAM, MLflow) | 🗓 12.07.2026 | 405 |
 
 
