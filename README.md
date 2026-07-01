@@ -11,24 +11,22 @@ You can complete the assignments **either locally** on your own computer or **in
 ## 🗓 Course Schedule
 
 
-| File | Topic / Description | Submission Date | Points |
-|-----------|--------------------|-----------------|-----------------|
-| **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission | 0 | 
-| **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 | 100 |
-| **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 | 100 | 
-| **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 17.05.2026 | 115 |
-| **03_MLP with TensorFlow.ipynb** | Implementing an MLP using TensorFlow | 🗓 24.05.2026 | 132 | 
-| *(break / no submission)* | — | ❌ No submission | - |
-| **04_Optimizers_Activations.ipynb** | Loss landscape visualisation, optimizer trajectories (Beale function), and comparing activation functions on MNIST | 🗓 01.06.2026 | 152 |
-| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 15.06.2026 | 175 |
-| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 22.06.2026 | 201 | 
-| **07_rnn.ipynb** | Sequence generation with RNNs/LSTMs | 🗓 29.06.2026 | 231 |
-| **08_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 06.07.2026 | 266 | 
-| **09_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 13.06.2026 | 305 |
-| **10_GNN_exercise.ipynb** | Graph Neural Networks (GNNs) | 🗓 20.07.2026 | 352 |
+| File | Topic / Description | Submission Date |
+|-----------|--------------------|-----------------|
+| **00_Intro Colab+Tensors.ipynb** | Introduction to Colab, Python, and Tensors | ❌ No submission | 
+| **01_Perceptron.ipynb** | Perceptron and single-layer neural networks with basis functions | 🗓 26.04.2026 |
+| **02_MLP.ipynb** | Multilayer Perceptron (MLP) implementation | 🗓 03.05.2026 | 
+| **03_Backpropagation.pdf** | Analytical backpropagation exercises (pen & paper, submit as scan or photo) | 🗓 17.05.2026 |
+| *(break / no submission)* | — | ❌ No submission |
+| **04_Optimizers_Activations.ipynb** | Loss landscape visualisation, optimizer trajectories (Beale function), and comparing activation functions on MNIST | 🗓 01.06.2026 |
+| **05_cnn_intro.ipynb** | Introduction to convolutional networks and deeper CNNs | 🗓 15.06.2026 |
+| **06_cnn_transfer_adversarials.ipynb** | Transfer learning and adversarial examples | 🗓 22.06.2026 | 
+| **07_rnn.ipynb** | Sequence generation with RNNs/LSTMs | 🗓 29.06.2026 |
+| **08_Transformers_tutorial.ipynb** | Transformer architectures and self‑attention | 🗓 13.07.2026 | 
+| **09_GAN_Tutorial.ipynb** | Generative Adversarial Networks | 🗓 20.07.2026 |
 
 
-All notebooks are due Sunday 23:55 pm before the corresponding tutorial session unless stated otherwise.
+All notebooks are due Monday 16:00 pm before the corresponding tutorial session unless stated otherwise.
 
 ---
 
